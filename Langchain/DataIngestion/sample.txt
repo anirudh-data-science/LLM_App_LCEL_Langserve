@@ -1,0 +1,51 @@
+Anirudh Sharma
++1 (520) 910-6862 | anirudhs9411@gmail.com | Austin, TX | linkedin.com/in/anirudhs9411
+
+Results-driven Data Scientist with 7+ years of experience in AI/ML, data analytics, and business intelligence. Skilled in optimizing predictive models, big data processing, and LLM workflows. Adept at solving business and analytical problems using statistical modeling and data analysis for high-volume data computations, improving business insights and decision-making. Experienced in leading teams to implement data automation and reporting solutions in risk, finance, and compliance.
+
+Professional Experience
+Data Scientist | Radiance Technologies                                                                                                     February 2024 – Present
+● Orchestrated Language Model (LLM) workflows using Langsmith, implementing the Retriever-Augmented Generation (RAG)
+model, which improved model performance by 15% and reduced operational costs by 10%.
+● Developed predictive models for financial forecasting and creditworthiness assessment, utilizing Python and Pandas-GPT to optimize data processing, resulting in a 40% reduction in processing time.
+● Designed and deployed advanced machine learning models, improving fraud detection accuracy by 30% in high-stakes financial transactions.
+● Collaborated with business and IT teams to create customized analytics tools, enhancing loan approval processes and enabling faster, more accurate decision-making across portfolios.
+● Designed and implemented anomaly detection models to monitor financial transaction patterns, proactively identifying potential risk areas and reducing false positives in fraud detection by 20%.
+Data Scientist | Canary Systems                                                                                                         March 2023 – September 2023
+● Worked on predictive analytics for a financial services client, improving investment portfolio management by building custom dashboards using the Plotly library and advanced statistical methods.
+● Leveraged RESTful APIs for efficient data extraction, and trained time-dependent models (ARIMA, Neural Networks) for forecasting interest rates and loan default risks, improving decision-making accuracy for large datasets.
+● Created Tableau reports for financial performance monitoring, optimizing risk management strategies and reducing resource allocation inefficiencies, resulting in $150,000/year in savings.
+● Built a recommendation system using quantitative analysis, increasing customer engagement in product offerings by 32%.
+Business Analyst Intern | Iridium Communications                                                                               May 2022 – December 2022
+● Led data analytics initiatives for financial product marketing, optimizing customer segmentation for personalized banking services and increasing service opt-ins by 18%.
+● Built a recommendation engine in Python for financial product upselling, increasing user engagement and driving $225K in annual revenue growth.
+● Used data visualization techniques in Tableau to enhance strategic decision-making for key financial stakeholders, improving business outcomes by 57%.
+Senior Data Analyst | Accenture                                                                                                              December 2016 – July 2021
+● Led a cross-functional team 3 to build and maintain a project management dashboard for executive management within a major financial services client, optimizing resource utilization and reducing team budget by 15%.
+● Enhanced turnaround time of client report generation by 30% (15 minutes) for a leading banking institution; developed an
+NLP-based SVM predictive model for pattern identification in sensitive financial data using regex.
+● Led a cross-functional team in designing a supply chain optimization dashboard (Tableau) for a global finance client, tracking inventory across 9 locations, resulting in an 11% reduction in warehouse management costs.
+● Applied machine learning (multivariate regression) to identify key factors impacting customer service for a top-tier financial services firm, leading to a 25% improvement in customer satisfaction, saving 40 person-hours per week.
+● Automated a delivery notification system for a major financial institution by building and managing a data pipeline using sales data (Python and SQL), reducing communication gaps across client and operations teams by 65%.
+● Managed financial data reporting processes in Oracle Financials for a financial services client, ensuring strict compliance with regulatory requirements and enhancing reporting accuracy.
+
+Projects
+● End-to-End Text-to-SQL LLM Application: Engineered an LLM-powered application using Google Gemini Pro to convert natural language queries into SQL, streamlining data retrieval from complex databases and improving query efficiency by 30%.
+● Credit Risk Modeling Project: Developed a credit risk assessment model using logistic regression for a banking client, to improve loan approval processes and reduce default rates by 12%.
+● Investment Risk Analysis: Designed and deployed a K-means clustering model to identify high-risk investment portfolios, helping reduce risk exposure by 20%.
+
+Skills
+Programming/Libraries: Python (Pandas, NumPy, Seaborn, Scikit-Learn, TensorFlow, PyTorch, SciPy), PySpark,
+Data Management and Cloud: SAS, Microsoft Azure (Azure ML, Databricks), Snowflake, AWS, Google Cloud Platform (GCP)
+Databases: MySQL, PL/SQL, Oracle DB, Snowflake, PostgresSQL, NoSQL, UNIX
+Business Intelligence: Tableau, Power BI, Looker, Plotly
+Utilities and Tools: ServiceNow, JIRA, R Studio, Jupyter Notebook, Hadoop, Hive, Spark, Excel, GitLab
+Techniques: Predictive Modeling, Data Engineering, Statistical Analysis, A/B Testing, ETL, Data Mining, Agile, Scrum, Forecasting, Risk
+Management, Compliance, Finance, Data Transformation, Data Automation
+
+Education
+University of Arizona | Master of Sciences | Management Information Systems                                                                       2021 - 2022
+Vellore Institute of Technology | Bachelor of Technology | Electronics and Communication Engineering                                 2012 – 2016
+
+Professional Certificates
+IBM Data Science Professional Certificate
