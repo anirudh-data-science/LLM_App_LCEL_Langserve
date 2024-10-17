@@ -13,3 +13,6 @@ sentence_transformers #for huggingface
 langchain_huggingface
 faiss-cpu
 streamlit
+fastapi
+uvicorn
+langserve
